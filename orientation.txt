@@ -1,0 +1,42 @@
+currency just came few years back 
+
+govt printing currency left right and center 
+why can't we give 1cr to everyone so that everyone can be rich 
+because then inflation will come as money will lose its value
+
+then you know what happened in 2008 
+
+thats why blockchain were introduced
+
+
+why trading comapines and all moved to japan ? 
+
+what is fiant currency ? 
+
+
+BTC 
+currency without any central identity 
+how they do it ? 
+
+
+what is hashing function ? 
+the output is called hash 
+hashiing is pre image resistant
+
+diff between hashing and encryption 
+SHA 256 
+
+
+number to binary convertion how and vice versa ? 
+
+
+and hexadecimal? 
+from number to hexadecimal to viceversa ?
+how its stored in computer ?
+as bit is stored in 1 bit i mean are you getting maybe im wrong ? 
+and why it used in sha 256? 
+
+
+what is proof of work ? 
+and how its used in BTC? 
+WITH EXAMPLE
