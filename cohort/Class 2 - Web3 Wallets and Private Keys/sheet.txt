@@ -1,0 +1,93 @@
+web2 application like notion,zoom 
+DAP like jupyer notebook,metamask 
+
+what is stablecoins ? 
+
+
+
+Hierarchical Deterministic (HD) Wallet
+when BTC came there was not concept of this 
+throught BTC improvement proposal (BIP) it was introduced
+BIP 32 - HD Wallets
+BIP 39 - Mnemonic code for generating deterministic keys
+BIP 44 - Multi-Account Hierarchy for Deterministic Wallets
+
+BIP 32 
+problem before HD wallet
+it was very hard to create and transcat in crypto 
+every time you had to create new address and store the private key somewhere safe
+if you lost the private key you lost the coins forever  
+
+wallets -- phantom, backpack ,metamask
+beacuse of this 2 yr old can hold crypto now
+as he holding his private keys in mnemonic phrase
+
+
+public key pvt key (32 bytes)
+RSA
+ssh-keygen 
+
+but these pvt keys are not rememebral 
+
+BIP 32
+problem:
+you have to store multiple pvt keys for multiple addresses
+solution:
+from single seed you can generate multiple pvt keys and addresses
+seed -- 512 bits (64 bytes)
+
+
+
+BIP 39 -- mneomic/seed phrase
+mnemonic phrase -- human readable form of seed
+BIP 39
+mnemoic phrase can be used to generate seed
+mnemonic phrase is generated from wordlist of 2048 words
+12 words -- 128 bits of entropy
+15 words -- 160 bits of entropy
+18 words -- 192 bits of entropy
+21 words -- 224 bits of entropy
+24 words -- 256 bits of entropy
+
+
+pass u put on wallet in for your laptop protecting your wallet from hackers
+and frnds of youurs try to open in your laptop 
+
+
+base58 is solana uses for solana
+
+
+dipe deep into the backpack code 
+
+m/44/60/0 -- path for ethereum in bip 44
+m/44/501/0 -- path for solana in bip 44
+m/44/0/0 -- path for bitcoin in bip 44
+BIP 44
+
+derivation path
+m / purpose' / coin_type' / account' / change / address_index
+purpose -- 44 for bip 44
+coin_type -- 0 for BTC , 60 for ETH , 501 for SOL
+account -- you can have multiple accounts
+change -- 0 for external chain , 1 for internal chain
+address_index -- address index
+
+where is the balance of user stored in BTC SOL ETH
+utx address 
+
+btc is basically straight line transaction decentrailized
+ETH is smart contract based, deccentralized application, rapid time
+solana is account based , deccentralized application
+
+
+what is validator ? 
+
+
+smart contracts? 
+dapp?
+
+eth -- soldiity 
+sol -- rust, proof of stake? 
+
+
+
